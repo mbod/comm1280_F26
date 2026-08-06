@@ -6,10 +6,14 @@
 ## Fall 2026
 
 
-### Lectures Tuesday/Thursday 3.30-4.30pm (Room: ANNS 109)
+### Lecture Classes
+
+-   Tuesday/Thursday 3.30-4.30pm (Room: ANNS 109)
 
 
-### Recitation Friday 1.45-2.45pm (Rooms: ANNS 224 and 225)
+### Lab/Recitation
+
+-   Friday 1.45-2.45pm (Rooms: ANNS 224 and 225)
 
 
 ### Professor: Matt O'Donnell
@@ -183,7 +187,7 @@ By the end of this course, students should be able to:
 started**
 
 
-## Week 1
+## Week 1 - Introduction; data literacy and communication
 
 
 ### Tuesday 25 August
@@ -195,7 +199,7 @@ started**
 ### Friday 28 August
 
 
-## Week 2
+## Week 2 - Data, information, and systems of thinking
 
 
 ### Tuesday 01 September
@@ -207,7 +211,7 @@ started**
 ### Friday 04 September
 
 
-## Week 3
+## Week 3 - Domains of data; measurement and scales
 
 
 ### Tuesday 08 September
@@ -219,7 +223,7 @@ started**
 ### Friday 11 September
 
 
-## Week 4
+## Week 4 - Forms of data analysis
 
 
 ### Tuesday 15 September
@@ -231,7 +235,7 @@ started**
 ### Friday 18 September
 
 
-## Week 5
+## Week 5 - Data representation and visualization
 
 
 ### Tuesday 22 September
@@ -245,7 +249,7 @@ started**
 ### Friday 25 September
 
 
-## Week 6
+## Week 6 - Working with tabular data
 
 
 ### Tuesday 29 September
@@ -264,7 +268,7 @@ started**
 **NO CLASS**
 
 
-## Week 7
+## Week 7 - Exploratory data analysis
 
 
 ### Tuesday 06 October
@@ -276,7 +280,7 @@ started**
 ### Friday 09 October
 
 
-## Week 8
+## Week 8 - Public and open data
 
 
 ### Tuesday 13 October
@@ -288,7 +292,7 @@ started**
 ### Friday 16 October
 
 
-## Week 9
+## Week 9 - Change over time and temporal data
 
 
 ### Tuesday 20 October
@@ -300,7 +304,7 @@ started**
 ### Friday 23 October
 
 
-## Week 10
+## Week 10 - Data storytelling and mapping
 
 
 ### Wednesday 27 October
@@ -312,7 +316,7 @@ started**
 ### Friday 30 October
 
 
-## Week 11
+## Week 11 - Privacy, ethics, and limits of data
 
 
 ### Tuesday 03 November
@@ -324,7 +328,7 @@ started**
 ### Friday 06 November
 
 
-## Week 12
+## Week 12 - Introduction to R and comparative tools
 
 
 ### Tuesday 10 November
@@ -336,7 +340,7 @@ started**
 ### Friday 13 November
 
 
-## Week 13
+## Week 13 - Networks and network data
 
 
 ### Tuesday 17 November
@@ -348,7 +352,7 @@ started**
 ### Friday 20 November
 
 
-## Week 14
+## Week 14 - Machine learning and algorithmic systems
 
 
 ### Tuesday 24 November
@@ -372,7 +376,7 @@ LAB SESSION???
 **NO CLASS**
 
 
-## Week 15
+## Week 15 - What data can—and cannot—tell us
 
 
 ### Tuesday 01 December
