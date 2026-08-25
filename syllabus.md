@@ -178,6 +178,40 @@ By the end of this course, students should be able to:
         limitations, and implications of the claim using course concepts
         and evidence. The project includes a draft and revision stage.
 
+
+# Textbooks and recommended readings
+
+
+## Textbooks
+
+1.  Nolan, D. and Stoudt, S. (2021) *Communicating with Data: The Art
+    of Writing for Data Science*. Oxford: Oxford University Press.
+    -   This book is referenced as `CWD` in the schedule.
+    -   Chapters to read are shown on the schedule.
+    -   Available online through library:
+        <https://academic-oup-com.proxy.library.upenn.edu/book/40034>
+    -   PDF Chapters also available in Canvas Resources
+
+1.  Gutman, A.J. and Goldmeier, J. (2021) *Becoming a Data Head: How to
+    Think, Speak, and Understand Data Science, Statistics, and Machine
+    Learning*. Indianapolis, IN: Wiley
+    -   This book is references as `DH` in the schedule.
+    -   Available online through library access to O'Reilly Media:
+        <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/>
+
+1.  Allchin, C. (2021) *Communicating with Data: Making Your Case with Data*. Sebastopol, CA: O’Reilly.
+    -   This is referenced as `MYC` in the schedule.
+    -   Available online through library access to O'Reilly Media:
+        <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/>
+
+
+## Other useful sources
+
+-   We will refer to some of these sources in weeking readings and lectures
+
+-   Heath, C. and Starr, K. (2022) *Making numbers count : the art and
+    science of communicating numbers*. New York: Avid.
+
 ---
 
 
@@ -189,6 +223,10 @@ started**
 
 ## Week 1 - Introduction; data literacy and communication
 
+1.  READINGS
+
+    -   `CWD` Ch.2 - 'Reading Materials Written for Broader Publics\`
+
 
 ### Tuesday 25 August
 
@@ -197,6 +235,12 @@ started**
 
 
 ### Friday 28 August
+
+
+### Assignment 1 DUE - 8/28/26 @ 11.59pm
+
+1.  Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
+2.  Submit Assignment 1 reminder in Canvas
 
 
 ## Week 2 - Data, information, and systems of thinking
@@ -235,15 +279,15 @@ started**
 ### Friday 18 September
 
 
-## Week 5 - Data representation and visualization
+## Week 5 - Exploratory data analysis
+
+Data representation and visualization
 
 
 ### Tuesday 22 September
 
 
 ### Thursday 24 September
-
-**NO CLASS** - VIDEO LECTURE
 
 
 ### Friday 25 September
@@ -268,7 +312,7 @@ started**
 **NO CLASS**
 
 
-## Week 7 - Exploratory data analysis
+## Week 7 - Text as Data: From Word Counts to LLMs
 
 
 ### Tuesday 06 October
