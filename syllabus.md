@@ -230,11 +230,22 @@ started**
 
 ### Tuesday 25 August
 
+-   Introduction and Setup
+-   Basic data stories
+-   Data about 'me'
+-   You should make sure you can access the class Jupyterhub server:
+    -   <https://commjhub.asc.upenn.edu/>
+
 
 ### Thursday 27 August
 
 
 ### Friday 28 August
+
+-   Getting started
+-   Working on Markdown assignments
+    1.  **about me**
+    2.  Analyzing a news/popular media data story
 
 
 ### Assignment 1 DUE - 8/28/26 @ 11.59pm
