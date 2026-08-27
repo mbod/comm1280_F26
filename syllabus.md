@@ -32,15 +32,54 @@
 
     -   Email: cameron.moy@asc.upenn.edu
     -   Office Hours:
-        -   TBA - xxxx in ASC ??? and on Zoom (see link in Canvas)
+        -   Tuesday and Friday at 11-12 in ASC140
 
 2.  Hogeun Lee
 
     -   Email: hogeun.lee@asc.upenn.edu
     -   Office Hours:
-        -   TBA - xxxx in ASC ??? and on Zoom (see link in Canvas)
-    
-    ---
+        -   Wednesday 2-3pm Friday 3-4pm in ASC122
+
+
+# IMPORTANT NOTICES
+
+
+## 1. HEALTH AND WELLNESS
+
+-   Flu, Covid-19 and other respiratory viruses are continuing to evolve
+    and infection and hospitalization rates continue to cycles of surge
+    and fall at both a local and national level. This is an interesting data story in and of itself!
+
+-   To reduce the risk of infection and increase the possibility of
+    wellness allowing us to focus on learning and working together,
+    please be monitor your health and be mindful of others around
+    you. You are always welcome to wear a mask in class for whatever
+    reason and the professor will frequently do so.
+
+-   This is a request for us to think socially about how our choices
+    impact others and how we can maximize learning opportunities.
+    **Please respect each other's choices on this issue**.
+
+
+## 2. ATTENDANCE, ZOOM AND CLASS RECORDINGS
+
+-   **ZOOM AND CLASS ATTENDANCE WHEN UNWELL** - If you feel sick or are
+    showing symptoms of flu, cold, or Covid-19 then **PLEASE BE
+    CONSIDERATE** of your classmates.
+
+-   Please make use of ****absence notices**** in `Path@Penn` to inform the
+    professor if you need to miss class due to extenuating
+    circumstances. Submitting an absence notice does not excuse students
+    from their course obligations. But you can view missed class session
+    in class recordings in Canvas.
+
+-   Zoom recordings of most Tue/Thur classes will be available in
+    Canvas. Contact the professor before class if you are unwell but
+    would like to join by Zoom (**NOTE**: This **may** be possible BUT is NOT
+    an alternative to attending class in person if you are able and
+    well).
+
+---
 
 
 # Course Description, Goals and Objectives
@@ -115,7 +154,7 @@ By the end of this course, students should be able to:
 
 
 <tr>
-<td class="org-left">Section discussion leadership</td>
+<td class="org-left">Section data discussion</td>
 <td class="org-right">10%</td>
 </tr>
 
@@ -153,14 +192,20 @@ By the end of this course, students should be able to:
         ideas. Quizzes emphasize comprehension and application rather
         than memorization.
 
--   **Section Discussion Leadership** (10%) 
+-   **Section Data Discussion Leadership** (10%) 
     -   Once during the semester, each student will lead a short
-        discussion or activity during section. Activities may include
-        evaluating a visualization, critiquing a dataset, or interpreting
-        analytical results in a communication context.
+        discussion or activity during section.
+    -   When it is your assigned turn you are responsible for finding a
+        data story or visualization to introduce to your group
 
 -   **Weekly Assignments** (15%)
-    -
+    -   Most weeks there will be an assignment available through the class
+        Jupyterhub server (<https://commjhub.asc.upenn.edu/>) based on the
+        topic and content for the week.
+    -   You will sometimes have opportunities to work on these in your
+        Friday recitation section.
+    -   They will usually be available after the Tuesday class and due at
+        11.59pm on Saturday. (Keep an eye on the schedule)
 
 -   **Midterm Group Multimedia Project** (20%) 
     -   Students will work in small groups to produce a multimedia project
@@ -215,6 +260,58 @@ By the end of this course, students should be able to:
 ---
 
 
+## Academic integrity
+
+Students are expected to be familiar and comply with Penn's Code of
+Academic Integrity, which can be found here:
+<https://catalog.upenn.edu/pennbook/code-of-academic-integrity/> . It
+should go without saying that cheating will not be tolerated and will
+result in a failing grade. I’d be happy to answer any questions you
+may have about what constitutes academic misconduct or how to avoid
+it.1
+
+
+### Policy regarding the use of Generative AI tools
+
+A note about the use of generative or conversational AI: You may know
+that generative AI tools such as ChatGPT have been used in college
+classes in both authorized and unauthorized ways.
+
+The class policy is that generative AI should only be used as
+specifically directed by the professor and the TFs (e.g. for specific
+Assignments). When used you **MUST** provide clear citation of what
+prompts where used and ideally include link to session
+transcripts. Any other use of such tools will be considered a
+violation of the Code of Academic Integrity.
+
+So-called Agentic AI tools (e.g. Claude Code, Codex, etc) are not
+appropriate for class data analysis and coding tasks and so **ARE NOT
+ALLOWED**.
+
+1.  Weekly Assignments
+
+    For the weekly Assignments you will see one of three policies on AI
+    usage for that particular assignment:
+    
+    1.  **NO AI ALLOWED**
+        -   The objective of the assignment is for you to demonstrate your
+            own knowledge and skills. Using an AI tool would be
+            counterproductive to your learning. If it is suspected that you
+            did use AI for these assignments you will either be asked to redo the
+            assignment or given a ZERO if it happens repeatedly.
+    2.  **AI ALLOWED TO HELP WITH CODING**
+        -   For certain of the coding and data analysis assignments, you will
+            be asked to produce code solutions. Ideally you will be able to
+            do these without assistance from AI. However, when indicated it
+            is permitted, you can ask for assitance with an emphasis on **explanation**.
+    3.  **AI ALLOWED FOLLOWING SPECIFIC INSTRUCTIONS**
+        -   Some assignments may actually be focused on using Generative AI
+            tools specifically. In these cases it will be made clear how you
+            can use the tools.
+    
+    &#x2014;
+
+
 # Schedule
 
 **NOTE: This is a tentative schedule that will change as the course gets
@@ -239,6 +336,11 @@ started**
 
 ### Thursday 27 August
 
+-   Using <https://commjhub.asc.upenn.edu/> Jupyterhub server
+-   Assignments
+-   Jupyter notebooks and Markdown
+-   Evaluation of a popular data story
+
 
 ### Friday 28 August
 
@@ -248,10 +350,10 @@ started**
     2.  Analyzing a news/popular media data story
 
 
-### Assignment 1 DUE - 8/28/26 @ 11.59pm
+### Assignment 1 DUE - 8/29/26 @ 11.59pm
 
-1.  Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
-2.  Submit Assignment 1 reminder in Canvas
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 2 - Data, information, and systems of thinking
