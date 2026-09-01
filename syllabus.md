@@ -249,6 +249,12 @@ By the end of this course, students should be able to:
     -   Available online through library access to O'Reilly Media:
         <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/>
 
+1.  Law, S.W. and Yim, B. (2026). *Data Literacy. The Essential
+    Language in the Digital Era*. London and New York: Routledge.
+    -   This is referenced as `DL` in the schedule.
+    -   Available online through library access:
+        <https://www-taylorfrancis-com.proxy.library.upenn.edu/books/mono/10.4324/9781003533504/data-literacy-sau-wai-law-benny-yim>
+
 
 ## Other useful sources
 
@@ -256,6 +262,40 @@ By the end of this course, students should be able to:
 
 -   Heath, C. and Starr, K. (2022) *Making numbers count : the art and
     science of communicating numbers*. New York: Avid.
+
+-   The two books by Ben Jones in *The Data Literacy Series*:
+    -   *Data Literacy Fundamentals: Understanding the Power & Value of
+        Data*
+    -   *Learning to See Data: How to Interpret the Visual Language of
+        Charts*
+
+-   Spector, A.Z., Norvig, P., Wiggins, C. and Wing,
+    J.M. (2023). *Data Science in Context: Foundations, Challenges,
+    Opportunities*. Cambrdige: Cambridge University Press.  (Book is
+    available online through the library)
+
+-   D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
+
+
+## References for Python and R coding
+
+1.  McGregor, S.E. (2021) *Practical Python Data Wrangling and Data
+    Quality*. O'Reilly Media. (This text is available through the Penn
+    library: <https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>)
+    -   We will use certain sections of this book in the lab sessions for
+        learning how to work with data using Python. The whole book is a
+        useful reference and introduction.
+    -   This book is referenced as `PPDW` in the schedule below.
+
+2.  Wickham, H. and Grolemund. G. (2017) *R for Data Science*. O'Reilly
+    Media. (Available online: <https://r4ds.had.co.nz/index.html>)
+    -   We will use parts of this book in the lab sessions for learning to
+        use R. The book focuses on using `ggplot` for visualization and the
+        `tidyverse` libraries for data analysis, just as we will.
+    -   There is more advanced material in the book that we won't be able
+        to cover but it is well worth spending some time trying some of the
+        exercises throughout the chapters.
+    -   This book is referenced as `RDS` in the schedule below.
 
 ---
 
@@ -358,14 +398,33 @@ started**
 
 ## Week 2 - Data, information, and systems of thinking
 
+1.  READINGS
+
+    -   `DL` Ch.1 - 'Describing Data'
+        (PDF in \`Files > Readings\` in course Canvas)
+
 
 ### Tuesday 01 September
+
+-   What is data?
+-   DIKW Hierarhcy
+-   Simple Data Visualization with Python
 
 
 ### Thursday 03 September
 
 
 ### Friday 04 September
+
+1.  QUIZ 1 - Short quiz on this weeks content and `DL` Ch. 1
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 2 DUE - 9/5/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 3 - Domains of data; measurement and scales
