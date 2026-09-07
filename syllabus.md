@@ -265,9 +265,9 @@ By the end of this course, students should be able to:
 
 -   The two books by Ben Jones in *The Data Literacy Series*:
     -   *Data Literacy Fundamentals: Understanding the Power & Value of
-        Data*
+        Data* (2020)
     -   *Learning to See Data: How to Interpret the Visual Language of
-        Charts*
+        Charts* (2020)
 
 -   Spector, A.Z., Norvig, P., Wiggins, C. and Wing,
     J.M. (2023). *Data Science in Context: Foundations, Challenges,
@@ -413,10 +413,12 @@ started**
 
 ### Thursday 03 September
 
+-   Practicing Python Basiscs Part 1 (Objects and Lists)
+
 
 ### Friday 04 September
 
-1.  QUIZ 1 - Short quiz on this weeks content and `DL` Ch. 1
+1.  QUIZ 1 - Short quiz on this week's content and `DL` Ch. 1
 
     -   Quiz will take place in your recitation/lab session
 
@@ -429,6 +431,15 @@ started**
 
 ## Week 3 - Domains of data; measurement and scales
 
+1.  READINGS
+
+    -   `MYC` - Chapter 1 'Communication'
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch01.html>
+    -   `DH` - Introduction and Chapters 1 & 2
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/f09.xhtml>
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/c01.xhtml>
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/c02.xhtml>
+
 
 ### Tuesday 08 September
 
@@ -437,6 +448,16 @@ started**
 
 
 ### Friday 11 September
+
+1.  QUIZ 2 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 3 DUE - 9/12/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 4 - Forms of data analysis
@@ -449,6 +470,16 @@ started**
 
 
 ### Friday 18 September
+
+1.  QUIZ 3 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 4 DUE - 9/19/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 5 - Exploratory data analysis
@@ -463,6 +494,16 @@ Data representation and visualization
 
 
 ### Friday 25 September
+
+1.  QUIZ 4 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 5 DUE - 9/26/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 6 - Working with tabular data
@@ -483,6 +524,8 @@ Data representation and visualization
 
 **NO CLASS**
 
+1.  NO QUIZ or Assignment this week
+
 
 ## Week 7 - Text as Data: From Word Counts to LLMs
 
@@ -494,6 +537,16 @@ Data representation and visualization
 
 
 ### Friday 09 October
+
+1.  QUIZ 5 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 6 DUE - 10/11/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 8 - Public and open data
@@ -507,6 +560,16 @@ Data representation and visualization
 
 ### Friday 16 October
 
+1.  QUIZ 6 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 7 DUE - 10/18/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
+
 
 ## Week 9 - Change over time and temporal data
 
@@ -518,6 +581,13 @@ Data representation and visualization
 
 
 ### Friday 23 October
+
+1.  QUIZ 7 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 8 DUE - 10/24/26 @ 11.59pm
 
 
 ## Week 10 - Data storytelling and mapping
@@ -531,6 +601,10 @@ Data representation and visualization
 
 ### Friday 30 October
 
+1.  QUIZ 8 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
 
 ## Week 11 - Privacy, ethics, and limits of data
 
@@ -543,6 +617,10 @@ Data representation and visualization
 
 ### Friday 06 November
 
+1.  QUIZ 9 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
+
 
 ## Week 12 - Introduction to R and comparative tools
 
@@ -554,6 +632,10 @@ Data representation and visualization
 
 
 ### Friday 13 November
+
+1.  QUIZ 10 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
 
 
 ## Week 13 - Networks and network data
@@ -572,11 +654,6 @@ Data representation and visualization
 
 
 ### Tuesday 24 November
-
-
-### Wednesday 25 November
-
-LAB SESSION???
 
 
 ### Thanksgiving Break 26-29 November
