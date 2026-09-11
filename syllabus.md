@@ -443,8 +443,15 @@ started**
 
 ### Tuesday 08 September
 
+-   Python Basics Part 2
+    -   Lists, Indexing, Slicing
+-   Measurement, Metrics, Validity and Reliability
+
 
 ### Thursday 10 September
+
+-   Working with Python Basics Part 2
+-   US Population Data
 
 
 ### Friday 11 September
@@ -454,7 +461,7 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 3 DUE - 9/12/26 @ 11.59pm
+### Assignment 3 DUE - 9/13/26 @ 11.59pm
 
 -   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
@@ -476,7 +483,7 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 4 DUE - 9/19/26 @ 11.59pm
+### Assignment 4 DUE - 9/20/26 @ 11.59pm
 
 -   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
