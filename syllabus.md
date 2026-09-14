@@ -467,10 +467,20 @@ started**
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
-## Week 4 - Forms of data analysis
+## Week 4 - Structured and Unstructured Data
+
+1.  READINGS
+
+    -   `MYC` - Chapter 2 'Data'
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch02.html>
+    -   `DH` - Chapter 3 'Prepare to think Statistically'
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/c03.xhtml>
 
 
 ### Tuesday 15 September
+
+-   Working with Tabular data
+-   Introduction to `pandas` and DataFrames
 
 
 ### Thursday 17 September
@@ -491,10 +501,18 @@ started**
 
 ## Week 5 - Exploratory data analysis
 
-Data representation and visualization
+1.  READINGS
+
+    -   `MYC` - Chapter 3 'Visualizing Data'
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch03.html>
+    -   `DH` - Chapters 4 'Argue with the Data' & 5 'Explore the Data'
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/c04.xhtml>
+        -   <https://learning.oreilly.com/library/view/becoming-a-data/9781119741749/c05.xhtml>
 
 
 ### Tuesday 22 September
+
+-   Data representation and visualization
 
 
 ### Thursday 24 September
