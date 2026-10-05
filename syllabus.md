@@ -217,11 +217,11 @@ By the end of this course, students should be able to:
         -   A real‑world communication example it helps illuminate
 
 -   **Final Data Project** (30%) 
-    -   The final project requires students to conduct a structured
-        evaluation of a data‑driven or algorithmic claim relevant to
-        communication. Students will assess the quality, assumptions,
-        limitations, and implications of the claim using course concepts
-        and evidence. The project includes a draft and revision stage.
+    -   The final project requires students (working individually or in
+        pairs or trios) to carry out a data project that demonstrates the
+        data analysis pipeline from research question, through data
+        acquisition and analysis to communication of an engaging data
+        story.
 
 
 # Textbooks and recommended readings
@@ -536,6 +536,9 @@ started**
 
 ### Tuesday 29 September
 
+-   Public data sources
+-   Looking at america.gov as a data source
+
 
 ### FALL BREAK 1-4 October
 
@@ -552,7 +555,16 @@ started**
 1.  NO QUIZ or Assignment this week
 
 
-## Week 7 - Text as Data: From Word Counts to LLMs
+## Week 7 - Change over time and temporal data
+
+1.  READINGS
+
+    -   `CWD` Ch.3 - 'Describing Data'
+        -   <https://academic-oup-com.proxy.library.upenn.edu/book/40034/chapter/340414156>
+            (PDF file for chapter in Canvas > Files)
+    -   `MYC` - Chapters 4 'Visualizing Data Differently' & 5 'Visual Elements'
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch04.html>
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch05.html>
 
 
 ### Tuesday 06 October
@@ -596,7 +608,7 @@ started**
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
-## Week 9 - Change over time and temporal data
+## Week 9 - Text as Data: From Word Counts to LLMs
 
 
 ### Tuesday 20 October
