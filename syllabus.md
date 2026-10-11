@@ -555,7 +555,7 @@ started**
 1.  NO QUIZ or Assignment this week
 
 
-## Week 7 - Change over time and temporal data
+## Week 7 - Change over time and place: Location and temporal data
 
 1.  READINGS
 
@@ -569,6 +569,9 @@ started**
 
 ### Tuesday 06 October
 
+-   US State Ice Cream preference data (Instacart and Visual Capitalist)
+-   `geopands` and geolocated data
+
 
 ### Thursday 08 October
 
@@ -578,12 +581,6 @@ started**
 1.  QUIZ 5 - Short quiz on this week's readings and content
 
     -   Quiz will take place in your recitation/lab session
-
-
-### Assignment 6 DUE - 10/11/26 @ 11.59pm
-
--   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
--   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 8 - Public and open data
@@ -602,7 +599,7 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 7 DUE - 10/18/26 @ 11.59pm
+### Assignment 6 DUE - 10/18/26 @ 11.59pm
 
 -   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
@@ -624,7 +621,10 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 8 DUE - 10/24/26 @ 11.59pm
+### Assignment 7 DUE - 10/25/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 10 - Data storytelling and mapping
@@ -641,6 +641,9 @@ started**
 1.  QUIZ 8 - Short quiz on this week's readings and content
 
     -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 8 DUE - 11/01/26 @ 11.59pm
 
 
 ## Week 11 - Privacy, ethics, and limits of data
