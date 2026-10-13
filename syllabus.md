@@ -585,6 +585,11 @@ started**
 
 ## Week 8 - Public and open data
 
+1.  READINGS
+
+    -   `DL` Ch.4 - 'Protecting and Regulating Data'
+        (PDF in \`Files > Readings\` in course Canvas)
+
 
 ### Tuesday 13 October
 
