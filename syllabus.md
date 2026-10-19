@@ -344,6 +344,11 @@ ALLOWED**.
             be asked to produce code solutions. Ideally you will be able to
             do these without assistance from AI. However, when indicated it
             is permitted, you can ask for assitance with an emphasis on **explanation**.
+        -   You must include full details of how you used AI tools including:
+            -   which tool/model (e.g. gpt-6-luna through pennchat/openai website etc)
+            -   the exact prompt and response you received, e.g. export or copy
+                the entire chat history
+            -   description of how you integrated the response into your assignment
     3.  **AI ALLOWED FOLLOWING SPECIFIC INSTRUCTIONS**
         -   Some assignments may actually be focused on using Generative AI
             tools specifically. In these cases it will be made clear how you
@@ -604,12 +609,6 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 6 DUE - 10/18/26 @ 11.59pm
-
--   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
--   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
-
-
 ## Week 9 - Text as Data: From Word Counts to LLMs
 
 
@@ -626,7 +625,7 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 7 DUE - 10/25/26 @ 11.59pm
+### Assignment 6 DUE - 10/25/26 @ 11.59pm
 
 -   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
@@ -648,7 +647,10 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 8 DUE - 11/01/26 @ 11.59pm
+### Assignment 7 DUE - 11/01/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 11 - Privacy, ethics, and limits of data
@@ -658,6 +660,8 @@ started**
 
 
 ### Thursday 05 November
+
+1.  MidTerm Group Media Project Presentations
 
 
 ### Friday 06 November
@@ -681,6 +685,9 @@ started**
 1.  QUIZ 10 - Short quiz on this week's readings and content
 
     -   Quiz will take place in your recitation/lab session
+
+
+### Assignment 8 DUE - 11/15/26 @ 11.59pm
 
 
 ## Week 13 - Networks and network data
