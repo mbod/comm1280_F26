@@ -277,7 +277,7 @@ By the end of this course, students should be able to:
 -   D'Ignazio, C. and Kleinhttps, L.F. (2020). *Data Feminism* Cambridge, MA: MIT Press. <https://data-feminism.mitpress.mit.edu/>
 
 
-## References for Python and R coding
+## References for Python and R coding and SQL
 
 1.  McGregor, S.E. (2021) *Practical Python Data Wrangling and Data
     Quality*. O'Reilly Media. (This text is available through the Penn
@@ -296,6 +296,11 @@ By the end of this course, students should be able to:
         to cover but it is well worth spending some time trying some of the
         exercises throughout the chapters.
     -   This book is referenced as `RDS` in the schedule below.
+
+1.  Nield, T. (2016) *Getting Started with SQL*. O'Reilly Media.
+    (Available online through Penn library: <https://learning.oreilly.com/library/view/getting-started-with/9781491938607/>)
+    -   We will read sections of this short introduction and use it as a reference for working with SQL
+    -   This book is referenced as `GSQL` in the schedle below.
 
 ---
 
@@ -588,7 +593,7 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-## Week 8 - Public and open data
+## Week 8 - Data privacy and Regulation
 
 1.  READINGS
 
@@ -598,8 +603,13 @@ started**
 
 ### Tuesday 13 October
 
+-   Setting up Mid-Term Media Project
+
 
 ### Thursday 15 October
+
+-   Who owns your data - looking at TikTok TOS
+-   Controls on Social Media algorithms
 
 
 ### Friday 16 October
@@ -611,11 +621,30 @@ started**
 
 ## Week 9 - Text as Data: From Word Counts to LLMs
 
+1.  READINGS
+
+    -   `GSQL` Chapters 1 "Why Learn SQL?" & 2 "Databases"
+        -   <https://learning.oreilly.com/library/view/getting-started-with/9781491938607/ch01.html>
+        -   <https://learning.oreilly.com/library/view/getting-started-with/9781491938607/ch02.html>
+    -   `MYC` - Chapters 6 'Visual Context' & 7 'The Medium for the Message: Complex and Interactive Data Communication'
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch06.html>
+        -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch07.html>
+
 
 ### Tuesday 20 October
 
+-   Two technologies of speech
+    1.  Speech-to-text transcription
+    2.  Human conversation
+-   Text as Data - working with text in Python
+    -   What is a word? - *Tokenization*
+    -   Counting words to quantify 'aboutness'
+
 
 ### Thursday 22 October
+
+-   Describing texts
+-   Classifying text
 
 
 ### Friday 23 October
@@ -631,7 +660,7 @@ started**
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
-## Week 10 - Data storytelling and mapping
+## Week 10 - Public and open data + Data storytelling and mapping
 
 
 ### Wednesday 27 October
