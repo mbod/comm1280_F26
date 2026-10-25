@@ -623,10 +623,10 @@ started**
 
 1.  READINGS
 
-    -   `GSQL` Chapters 1 "Why Learn SQL?" & 2 "Databases"
+    -   `GSQL` Chapters 1 “Why Learn SQL?” & 2 “Databases”
         -   <https://learning.oreilly.com/library/view/getting-started-with/9781491938607/ch01.html>
         -   <https://learning.oreilly.com/library/view/getting-started-with/9781491938607/ch02.html>
-    -   `MYC` - Chapters 6 'Visual Context' & 7 'The Medium for the Message: Complex and Interactive Data Communication'
+    -   `MYC` - Chapters 6 ‘Visual Context’ & 7 ‘The Medium for the Message: Complex and Interactive Data Communication’
         -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch06.html>
         -   <https://learning.oreilly.com/library/view/communicating-with-data/9781098101848/ch07.html>
 
@@ -654,16 +654,21 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 6 DUE - 10/25/26 @ 11.59pm
+## Week 10 - Text as Data (Continued)
 
--   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+1.  READINGS
+
+    -   Chapter 1 'NLP: A Primer'
+        -   <https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/ch01.html>
+
+
+### Tuesday 27 October
+
+
+### Assignment 6 DUE - 10/27/26 @ 11.59pm
+
+-   This assignment is a **AI ALLOWED TO HELP WITH CODING** assignment (see AI usage policy above)
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
-
-
-## Week 10 - Public and open data + Data storytelling and mapping
-
-
-### Wednesday 27 October
 
 
 ### Thursday 29 October
@@ -682,10 +687,13 @@ started**
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
-## Week 11 - Privacy, ethics, and limits of data
+## Week 11 - Issues in data, society and culture
 
 
 ### Tuesday 03 November
+
+-   Public and open data + Data storytelling and mapping
+-   Privacy, ethics, and limits of data
 
 
 ### Thursday 05 November
