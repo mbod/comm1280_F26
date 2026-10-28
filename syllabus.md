@@ -664,6 +664,10 @@ started**
 
 ### Tuesday 27 October
 
+-   Classifying Text
+-   Building a classifier by hand
+-   Machine Learning approaches to text classification
+
 
 ### Assignment 6 DUE - 10/27/26 @ 11.59pm
 
@@ -679,12 +683,6 @@ started**
 1.  QUIZ 8 - Short quiz on this week's readings and content
 
     -   Quiz will take place in your recitation/lab session
-
-
-### Assignment 7 DUE - 11/01/26 @ 11.59pm
-
--   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
--   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 11 - Issues in data, society and culture
@@ -713,6 +711,8 @@ started**
 
 ### Tuesday 10 November
 
+-   Starting work on final data story projects
+
 
 ### Thursday 12 November
 
@@ -737,6 +737,12 @@ started**
 
 
 ### Friday 20 November
+
+
+### Assignment 8 DUE - 11/22/26 @ 11.59pm
+
+-   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
+-   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
 ## Week 14 - Machine learning and algorithmic systems
