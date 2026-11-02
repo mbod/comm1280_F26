@@ -677,6 +677,8 @@ started**
 
 ### Thursday 29 October
 
+-   Mid-Term Group Projects Update Presentations
+
 
 ### Friday 30 October
 
@@ -701,10 +703,6 @@ started**
 
 ### Friday 06 November
 
-1.  QUIZ 9 - Short quiz on this week's readings and content
-
-    -   Quiz will take place in your recitation/lab session
-
 
 ## Week 12 - Introduction to R and comparative tools
 
@@ -719,7 +717,7 @@ started**
 
 ### Friday 13 November
 
-1.  QUIZ 10 - Short quiz on this week's readings and content
+1.  QUIZ 9 - Short quiz on this week's readings and content
 
     -   Quiz will take place in your recitation/lab session
 
@@ -737,6 +735,10 @@ started**
 
 
 ### Friday 20 November
+
+1.  QUIZ 10 - Short quiz on this week's readings and content
+
+    -   Quiz will take place in your recitation/lab session
 
 
 ### Assignment 8 DUE - 11/22/26 @ 11.59pm
