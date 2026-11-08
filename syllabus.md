@@ -703,13 +703,30 @@ started**
 
 ### Friday 06 November
 
+-   Discussion: *Ghost in the Machine*
 
-## Week 12 - Introduction to R and comparative tools
+
+## Week 12 - Machine learning and algorithmic systems
+
+1.  READINGS
+
+    -   Wolfram, S. (2023) /What Is ChatGPT Doing … and Why Does It
+    
+    Work?/. Blog post February 14, 2023
+    
+    -   <https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/>
+    
+    -   Eddy, M. (2026) 'AI Companies Can Read Your Private Chats. Here’s What
+    
+    to Do About It.' Wirecutter *New York Times* (Published 11/30/26)
+    
+    -   <https://www.nytimes.com/wirecutter/advice/ai-chat-privacy/>
 
 
 ### Tuesday 10 November
 
 -   Starting work on final data story projects
+-   How do LLMs work?
 
 
 ### Thursday 12 November
@@ -722,10 +739,10 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 8 DUE - 11/15/26 @ 11.59pm
+### Assignment 7 DUE - 11/15/26 @ 11.59pm
 
 
-## Week 13 - Networks and network data
+## Week 13 - Introduction to R and comparative tools
 
 
 ### Tuesday 17 November
@@ -747,7 +764,7 @@ started**
 -   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
 
 
-## Week 14 - Machine learning and algorithmic systems
+## Week 14 - Networks and network data
 
 
 ### Tuesday 24 November
@@ -776,4 +793,10 @@ started**
 
 
 ### Friday 04 December
+
+
+## Final Data Project DUE Thursday December 17 @ 11.59pm
+
+-   Project repository should be complete on GitHub
+-   Submit the assignment in Canvas to indicate your project is complete
 
