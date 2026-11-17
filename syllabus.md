@@ -739,13 +739,13 @@ started**
     -   Quiz will take place in your recitation/lab session
 
 
-### Assignment 7 DUE - 11/15/26 @ 11.59pm
-
-
-## Week 13 - Introduction to R and comparative tools
+## Week 13 - Data Projects
 
 
 ### Tuesday 17 November
+
+-   Setting up github repository for Data Project
+-   Setting up project folder on commmjhub.asc.upenn.edu
 
 
 ### Thursday 19 November
@@ -753,21 +753,16 @@ started**
 
 ### Friday 20 November
 
-1.  QUIZ 10 - Short quiz on this week's readings and content
-
-    -   Quiz will take place in your recitation/lab session
-
-
-### Assignment 8 DUE - 11/22/26 @ 11.59pm
-
--   This assignment is a **NO AI ALLOWED** assignment (see AI usage policy above)
--   Submit JupyterHub assignment through Assignments tab using `commjhub.asc.upenn.edu` server
+-   Initial Presentations for Data Projects
+    -   3-5 slides (5 mins max)
 
 
 ## Week 14 - Networks and network data
 
 
 ### Tuesday 24 November
+
+**NO CLASS**
 
 
 ### Thanksgiving Break 26-29 November
